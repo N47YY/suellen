@@ -1,9 +1,9 @@
 body {
     color: white;
-    background: black;
+    background: pink;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 
 header {
@@ -47,7 +47,7 @@ p {
 
 .categoria-videos img {
     opacity: 0.5;
-    height: 200px;
+    height: 250px;
 }
 
 .categoria-videos img:hover {
